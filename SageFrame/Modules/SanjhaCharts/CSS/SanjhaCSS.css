@@ -1,0 +1,91 @@
+﻿.scLabel{
+    
+}
+
+/*.divInputBox{
+    padding: 15px;
+    width: 350px;
+}
+
+.scInput{
+    float:right;
+    margin-top:-6px;
+}*/
+
+.sanjhaViewContainer{
+    width: 450px;
+}
+
+.divSanjhaCharts{
+    padding-top: 50px;
+    padding-left: 200px;
+}
+
+#btnSave{
+    margin-right:20px;
+}
+
+.err{
+    color: red;
+}
+
+#chartCanvas{
+   
+}
+
+ul {
+  list-style: none;
+}
+
+.legend>ul li{
+  display: block;
+  position: relative;
+  padding: 2px 8px 2px 28px;
+  font-size: 14px;
+  margin-bottom: 5px;
+  font-size: 12px;
+}
+
+.legend>ul li span{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 20px;
+  height: 100%;
+}
+
+.legend{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+}
+
+.horizontalValue{
+    text-align: center;
+    display:none;
+}
+
+.verticalValue p{
+   -moz-transform: rotate(90.0deg);  
+   -o-transform: rotate(90.0deg);  
+   -webkit-transform: rotate(90.0deg);  
+   filter:  progid:DXImageTransform.Microsoft.BasicImage(rotation=10);
+   -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=10)";
+   margin-left: 1px;
+}
+
+.verticalValue{
+    display:none;
+}
+
+.chartTable tr td {
+    border: none;
+}
+
+#imgUpArrow{
+    margin-bottom:15px;
+    margin-left: 15px;
+}
+
+
+

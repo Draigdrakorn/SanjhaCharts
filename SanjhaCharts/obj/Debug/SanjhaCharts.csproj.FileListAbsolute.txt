@@ -1,0 +1,9 @@
+D:\SageFrame-Source\SanjhaCharts\bin\Debug\SanjhaCharts.dll
+D:\SageFrame-Source\SanjhaCharts\bin\Debug\SanjhaCharts.pdb
+D:\SageFrame-Source\SanjhaCharts\bin\Debug\SageFrame.Common.dll
+D:\SageFrame-Source\SanjhaCharts\bin\Debug\SageFrame.Common.pdb
+D:\SageFrame-Source\SanjhaCharts\obj\Debug\SanjhaCharts.csprojResolveAssemblyReference.cache
+D:\SageFrame-Source\SanjhaCharts\obj\Debug\Interop.otkloadr.dll
+D:\SageFrame-Source\SanjhaCharts\obj\Debug\SanjhaCharts.csproj.ResolveComReference.cache
+D:\SageFrame-Source\SanjhaCharts\obj\Debug\SanjhaCharts.dll
+D:\SageFrame-Source\SanjhaCharts\obj\Debug\SanjhaCharts.pdb
